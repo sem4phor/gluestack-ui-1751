@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "@expo/html-elements": "latest",
-    "@gluestack-style/react": "^1.0.48",
-    "@gluestack-ui/config": "^1.1.10",
-    "@gluestack-ui/themed": "^1.1.9",
+    "@gluestack-style/react": "^1.0.45",
+    "@gluestack-ui/config": "^1.1.1",
+    "@gluestack-ui/themed": "^1.1.2",
     "@legendapp/motion": "latest",
     "expo": "^50.0.3",
     "expo-status-bar": "~1.11.1",
